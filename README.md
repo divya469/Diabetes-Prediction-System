@@ -2,6 +2,9 @@
 
 A production-ready machine learning system that predicts diabetes risk based on health metrics. This project demonstrates a complete MLOps workflow from model training to API deployment using FastAPI, Docker, and Kubernetes.
 <img width="1575" height="826" alt="image" src="https://github.com/user-attachments/assets/4db8c93f-932b-46e7-9646-01cd8e41fe9b" />
+<img width="1919" height="983" alt="Screenshot 2026-04-21 180252" src="https://github.com/user-attachments/assets/8d48dae3-99cc-4399-a787-42066bbf5daa" />
+<img width="1919" height="994" alt="Screenshot 2026-04-21 180221" src="https://github.com/user-attachments/assets/4dba8ad2-47d8-4866-9995-6468e342aabb" />
+
 
 ## ✨ Features
 
